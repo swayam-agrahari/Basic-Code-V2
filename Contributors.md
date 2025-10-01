@@ -1,8 +1,7 @@
 <h2 align="left">CONTRIBUTORS</h2>
 
-<p>Name: {Your Name}<br>
-Location: {Your Location} <br>
-Github link: {Your GH link} </p>
+<p>Name: Gobala Krishnan<br>
+Location: Chennai<br>
+Github link: https://github.com/GKrizz</p>
 
-Note- copy above format and fill your details
 _______________________________________________________________________________
