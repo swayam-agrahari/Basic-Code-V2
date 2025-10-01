@@ -17,7 +17,6 @@ MORSE_CODE_DICT = {
 
 MORSE_CODE_DICT_REVERSED = {value: key for key, value in MORSE_CODE_DICT.items()}
 
-
 def text_to_morse(text: str) -> str:
     text = text.upper()
     morse_code = []
@@ -39,7 +38,6 @@ def morse_to_text(morse: str) -> str:
             decoded_word += MORSE_CODE_DICT_REVERSED.get(letter, "")
         text.append(decoded_word)
     return " ".join(text)
-
 
 if __name__ == "__main__":
     text = "Hello World"
