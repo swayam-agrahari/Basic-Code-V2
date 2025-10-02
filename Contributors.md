@@ -5,4 +5,8 @@ Location: {Your Location} <br>
 Github link: {Your GH link} </p>
 
 Note- copy above format and fill your details
+
+<p>Name: Deepesh Kumar<br>
+Location: Delhi, India <br>
+Github link: <a href="https://github.com/akadeepesh">akadeepesh</a> </p>
 _______________________________________________________________________________
